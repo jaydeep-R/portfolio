@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Jaydeepsinh B Rathod',
+  title: 'Jaydeepsinh  Rathod',
   tagline: 'full-stack development, platform engineering, product innovation, branding & marketing',
   url: 'https://jaydeepr.com',
   baseUrl: '/',
