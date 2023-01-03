@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Jaydeep Rathod',
   tagline: 'full-stack development, platform engineering, product innovation, branding & marketing',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://jaydeepr.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
